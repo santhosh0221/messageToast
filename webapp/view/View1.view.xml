@@ -5,6 +5,7 @@
 				<Page id="page" title="{i18n>title}">
 					<content>
 						<Button text="click" press="message"/>
+						<Button text="click or all" press="message1"/>
 					</content>
 				</Page>
 			</pages>
