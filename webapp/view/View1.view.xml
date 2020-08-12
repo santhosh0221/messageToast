@@ -6,13 +6,8 @@
 					<content>
 						<Button text="click" press="message"/>
 						<Button text="click or all" press="message1"/>
-<<<<<<< HEAD
-						<Label text="enter input"/>
 						<Input placeholder="tell something" id="inputBox"/>
-=======
-						<Input placeholder="tell something" id="inputBox"></Input>
-	                                      <Label text="name" />
->>>>>>> refs/heads/master
+						<Label text="name"/>
 					</content>
 				</Page>
 			</pages>
