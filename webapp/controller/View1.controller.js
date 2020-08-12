@@ -9,7 +9,8 @@ sap.ui.define([
 
 		},
 		message: function () {
-			MessageToast.show("Hai");
+			var name = this.getView().byId("inputBox").getValue();
+			MessageToast.show("Hai" + name);
 		},
 		message1: function () {
 			MessageToast.show("Hai all");
