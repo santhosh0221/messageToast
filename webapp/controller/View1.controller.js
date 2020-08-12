@@ -10,7 +10,9 @@ sap.ui.define([
 		},
 		message: function () {
 			MessageToast.show("Hai");
-			MessageToast.show("Hai");
+		},
+		message1: function () {
+			MessageToast.show("Hai all");
 		}
 	});
 });
