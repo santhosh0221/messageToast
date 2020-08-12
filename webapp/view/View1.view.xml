@@ -6,7 +6,7 @@
 					<content>
 						<Button text="click" press="message"/>
 						<Button text="click or all" press="message1"/>
-						<Input placeholder="tell something" ></Input>
+						<Input placeholder="tell something" id="inputBox"></Input>
 					</content>
 				</Page>
 			</pages>
