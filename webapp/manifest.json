@@ -82,7 +82,13 @@
 					"target": [
 						"TargetView1"
 					]
-				}
+				}, {
+				"name": "RouteInput",
+				"pattern": "RouteLoginView1",
+				"target": [
+					"inputField"
+				]
+			}
 			],
 			"targets": {
 				"TargetView1": {
@@ -95,6 +101,10 @@
 				"homeview2": {
 					"viewType": "XML",
 					"viewName": "homeview2"
+				},
+                "inputField": {
+					"viewType": "XML",
+					"viewName": "inputField"
 				}
 			}
 		}
