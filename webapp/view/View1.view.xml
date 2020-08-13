@@ -9,6 +9,7 @@
 						<Input placeholder="tell something" id="inputBox"></Input>
 						<Label text="name"/>
 						<Button text="click for message box"/>
+						<Text text="hai"/>
 					</content>
 				</Page>
 			</pages>
