@@ -98,7 +98,11 @@
 					"viewId": "View1",
 					"viewName": "View1"
 				},
-				"inputField": {
+				"homeview2": {
+					"viewType": "XML",
+					"viewName": "homeview2"
+				},
+                "inputField": {
 					"viewType": "XML",
 					"viewName": "inputField"
 				}
