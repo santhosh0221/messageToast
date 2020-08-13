@@ -8,7 +8,7 @@
 						<Button text="click or all" press="message1"/>
 						<Input placeholder="tell something" id="inputBox"></Input>
 						<Label text="name"/>
-					
+						<Button text="click for message box"/>
 					</content>
 				</Page>
 			</pages>
